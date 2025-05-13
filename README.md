@@ -1,10 +1,10 @@
 # Google Maps Travel Advisor
 
-### A modern React web app that lets users explore restaurants, hotels, and attractions on an interactive map using Google Maps APIs. Built for travelers to discover places based on location, type, and rating — all in real time.
+- *A modern React web app that lets users explore restaurants, hotels, and attractions on an interactive map using Google Maps APIs. Built for travelers to discover places based on location, type, and rating — all in real time.*
 ---
-### **Site URL:** https://travel-advisor-mdm.netlify.app
+- **Site URL:** https://travel-advisor-mdm.netlify.app
 ---
-> 🚀 Deployed with [Netlify](https://www.netlify.com/)
+- Deployed with [Netlify](https://www.netlify.com/)
 
 ### Technologies used
 
